@@ -46,7 +46,7 @@
         <label class="form-label d-block fs-13 fw-semibold">
           Números de la tarjeta
         </label>
-        <input type="tel" minlength="20" maxlength="20" required="" id="card" class="form-control text-center " placeholder="**** **** **** ******" name="card">
+        <input type="tel" minlength="22" maxlength="22" required="" id="card" class="form-control text-center " placeholder="**** **** **** **** **" name="card">
       </div>
       <p class="false text-danger fw-bold" style="font-size: 13px;display: none;">
         <small class="text-danger">El formato es incorrecto. Debe contener 16 digitos.</small>
